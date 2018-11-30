@@ -1,0 +1,24 @@
+{
+  "name": "aplicacao-conversation",
+  "version": "1.0.0",
+  "description": "Treinamento de chatbot",
+  "main": "aplicacao-conversation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagocmds/chatbot-aluraphone-.git"
+  },
+  "author": "Tiago C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagocmds/chatbot-aluraphone-/issues"
+  },
+  "homepage": "https://github.com/tiagocmds/chatbot-aluraphone-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.6",
+    "prompt-sync-history": "^1.0.1",
+    "watson-developer-cloud": "^3.13.1"
+  }
+}
